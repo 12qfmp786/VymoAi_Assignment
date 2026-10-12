@@ -16,7 +16,7 @@ Open the local URL printed by Vite (usually `http://localhost:5173`).
 ```text
 src/
 ├── design-system/     Reusable tokens, atoms, and the Field molecule
-├── features/lead/     Lead form config, validation, and page
+├── features/     Lead form config, validation, and page
 ├── App.tsx
 ├── main.tsx
 └── index.css
