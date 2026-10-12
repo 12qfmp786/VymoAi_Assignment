@@ -1,7 +1,5 @@
 /*
-  Breakpoint tokens (documented for media queries).
-  Custom properties cannot be used inside @media in all browsers,
-  so layouts copy these values:
+
 
   --bp-mobile-max: 767px   -> single column
   --bp-tablet-max: 1024px  -> still single column
